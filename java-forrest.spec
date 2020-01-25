@@ -6,7 +6,6 @@
 %bcond_without	javadoc		# don't build javadoc
 %bcond_without	tests		# don't build and run tests
 
-%include	/usr/lib/rpm/macros.java
 %define		srcname		xml-forrest
 Summary:	Apache Forrest software is a publishing framework
 Name:		java-forrest
